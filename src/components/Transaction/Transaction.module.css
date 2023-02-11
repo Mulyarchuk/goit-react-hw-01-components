@@ -1,0 +1,19 @@
+.transactionhistory{
+    background-color: #fff;
+    margin: 0;
+    font-size: 22px;
+    width: 400px;
+  }
+
+thead {
+    background-color:rgb(34, 106, 106);
+    color: white;
+}
+th, td {
+    padding: 5px 15px;
+    font-size: medium;
+}
+td {
+    text-align: center;
+    
+}    
